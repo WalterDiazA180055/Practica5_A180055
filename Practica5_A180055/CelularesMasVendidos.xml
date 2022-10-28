@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:/Users/soyda/Desktop/Servicios%20WEB/Practica5_A180055/Estilo.xsl"?>
+<celulares>
+<celular>
+<nombre>Apple Iphone 13</nombre>
+<precio>869 €</precio>
+</celular>
+<celular>
+<nombre>Apple Iphone 13 Pro</nombre>
+<precio>1084 €</precio>
+</celular>
+<celular>
+<nombre>Samsung Galaxy A12</nombre>
+<precio>180 €</precio>
+</celular>
+<celular>
+<nombre>Samsung Galaxy A52s 5G</nombre>
+<precio>319 €</precio>
+</celular>
+<celular>
+<nombre>POCO X3 Pro</nombre>
+<precio>209 €</precio>
+</celular>
+<celular>
+<nombre>Xiaomi Redmi Note 10</nombre>
+<precio>152 €</precio>
+</celular>
+<celular>
+<nombre>Samsung Galaxy A32</nombre>
+<precio>220 €</precio>
+</celular>
+<celular>
+<nombre>Xiaomi Redmi Note 10 Pro</nombre>
+<precio>221 €</precio>
+</celular>
+<celular>
+<nombre>OnePlus Nord 2 5G</nombre>
+<precio>314 €</precio>
+</celular>
+<celular>
+<nombre>POCO F3</nombre>
+<precio>300 €</precio>
+</celular>
+</celulares>
